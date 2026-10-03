@@ -1,0 +1,1 @@
+var e=3e3,t=3e3;function n(e){return new Promise(t=>setTimeout(t,e))}export{e as n,n as r,t};
