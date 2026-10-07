@@ -1,4 +1,4 @@
-# Fulki Travel — agent portal preview
+# Fulki Connect — agent portal preview
 
 Static build of the agent portal (`arbhuiyan/fulki-travel`, branch `v2`, `frontend/`),
 served by GitHub Pages at https://arbhuiyan.github.io/fulki-travel-agent-preview/.
