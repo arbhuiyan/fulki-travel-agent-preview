@@ -1,0 +1,1 @@
+import{c as e,d as t,l as n}from"./journey-C8mB01Wn.js";function r(r,i){return e({...r,enabled:!0,suspense:!0,throwOnError:n,placeholderData:void 0},t,i)}export{r as t};
