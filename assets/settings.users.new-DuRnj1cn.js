@@ -1,1 +1,0 @@
-import{K as e}from"./access-Bms9MoPX.js";import{t}from"./UserEditor-lMjA6Xt3.js";import{t as n}from"./index-N5CLkC7u.js";import{r}from"./Access-DoIHlpyx.js";var i=e();function a(){let e=n.useNavigate();return(0,i.jsx)(t,{onDone:()=>e({to:`/settings/users`})})}var o=()=>(0,i.jsx)(r,{permission:`users.manage`,children:(0,i.jsx)(a,{})});export{o as component};
