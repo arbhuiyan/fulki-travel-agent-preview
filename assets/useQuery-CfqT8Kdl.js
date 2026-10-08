@@ -1,1 +1,0 @@
-import{c as e,d as t}from"./journey-CbGG3UYF.js";function n(n,r){return e(n,t,r)}export{n as t};
