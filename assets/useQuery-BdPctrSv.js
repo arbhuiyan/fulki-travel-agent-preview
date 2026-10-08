@@ -1,0 +1,1 @@
+import{n as e,o as t}from"./queryOptions-CjgOFxYG.js";function n(n,r){return e(n,t,r)}export{n as t};
