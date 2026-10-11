@@ -1,0 +1,1 @@
+import{I as e,L as t}from"./access-Bgiuf4LM.js";var n=e=>t(`paymentMethod.${e}`,e),r=t=>t.method===`refund`&&t.via?e(`paymentMethod.refundVia`,{method:n(t.via)}):n(t.method);export{r as n,n as t};

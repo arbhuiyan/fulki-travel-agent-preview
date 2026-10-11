@@ -1,0 +1,1 @@
+import{K as e}from"./access-Bgiuf4LM.js";var t=e(`check`,[[`path`,{d:`M20 6 9 17l-5-5`,key:`1gmf2c`}]]);export{t};
