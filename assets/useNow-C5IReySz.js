@@ -1,0 +1,1 @@
+import{J as e,Z as t}from"./access-D0aU_F2q.js";var n=t(e(),1);function r(e=6e4){let[t,r]=(0,n.useState)(()=>Date.now());return(0,n.useEffect)(()=>{let t=window.setInterval(()=>r(Date.now()),e);return()=>window.clearInterval(t)},[e]),t}export{r as t};
