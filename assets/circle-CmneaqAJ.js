@@ -1,0 +1,1 @@
+import{K as e}from"./access-Donu2UrB.js";var t=e(`circle`,[[`circle`,{cx:`12`,cy:`12`,r:`10`,key:`1mglay`}]]);export{t};

@@ -1,0 +1,1 @@
+import{J as e,Z as t}from"./access-Donu2UrB.js";import{r as n}from"./link-DKRX60hP.js";var r=t(e(),1);function i(e){let t=n();return r.useCallback(n=>t.navigate({...n,from:n.from??e?.from}),[e?.from,t])}export{i as t};
