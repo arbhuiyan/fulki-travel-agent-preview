@@ -1,0 +1,1 @@
+import{A as e,w as t}from"./access-DNVhKyD5.js";var n=(e,n)=>e.builtIn&&t[e.id]?n(t[e.id]):e.name;function r(t,r,i){if(t.owner)return i(`users.owner`);let a=e(t.permissions,r);return a?n(a,i):i(`roles.custom`)}export{r as n,n as t};

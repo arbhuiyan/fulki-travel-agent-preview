@@ -1,0 +1,1 @@
+import{J as e,q as t}from"./access-DNVhKyD5.js";var n=t=>e(`paymentMethod.${t}`,t),r=e=>e.method===`refund`&&e.via?t(`paymentMethod.refundVia`,{method:n(e.via)}):n(e.method);export{r as n,n as t};
