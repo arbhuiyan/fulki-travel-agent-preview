@@ -1,11 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-  <defs>
-    <linearGradient id="trail" x1="0" x2="1" y1="0" y2="0">
-      <stop offset="0" stop-color="#fff" stop-opacity="0.1"/>
-      <stop offset="1" stop-color="#fff"/>
-    </linearGradient>
-  </defs>
-  <rect width="32" height="32" rx="8" fill="#ea580c"/>
-  <rect x="4" y="15" width="13" height="2" rx="1" fill="url(#trail)"/>
-  <path d="M10 5c0-.6-.6-.8-1.2-.8H6.3L3.7 0H2.5l1.4 4.2H1.7L.7 2.6H0l.4 2.4L0 7.4h.7l1-1.6h2.2L2.5 10h1.2l2.6-4.2h2.5c.6 0 1.2-.2 1.2-.8z" fill="#fff" transform="translate(16 9.5) scale(1.3)"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Fulki Travel &amp; Tours"><defs><clipPath id="favr"><rect width="64" height="64" rx="12.80"/></clipPath><clipPath id="fcfavt"><rect x="0.00" y="0.00" width="64.00" height="31.23"/></clipPath><clipPath id="fcfavb"><rect x="0.00" y="32.77" width="64.00" height="31.23"/></clipPath><linearGradient id="fcfavs" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#000" stop-opacity="0.35"/><stop offset="1" stop-color="#000" stop-opacity="0"/></linearGradient></defs><title>Fulki Travel &amp; Tours</title><g clip-path="url(#favr)"><g clip-path="url(#fcfavt)"><rect x="0.00" y="0.00" width="64.00" height="64.00" rx="5.76" fill="#2A2725"/><g fill="#F97316"><rect x="17.28" y="11.52" width="10.88" height="40.96"/><rect x="17.28" y="11.52" width="32.00" height="9.57"/><rect x="17.28" y="26.68" width="26.24" height="8.70"/></g></g><g clip-path="url(#fcfavb)"><rect x="0.00" y="0.00" width="64.00" height="64.00" rx="5.76" fill="#232120"/><g fill="#EA580C"><rect x="17.28" y="11.52" width="10.88" height="40.96"/><rect x="17.28" y="11.52" width="32.00" height="9.57"/><rect x="17.28" y="26.68" width="26.24" height="8.70"/></g><rect x="0.00" y="32.77" width="64.00" height="4.48" fill="url(#fcfavs)"/></g><rect x="0.00" y="31.23" width="64.00" height="1.54" fill="#000"/><rect x="-0.90" y="29.76" width="2.24" height="4.48" rx="0.67" fill="#2A2725" opacity="0.9"/><rect x="62.66" y="29.76" width="2.24" height="4.48" rx="0.67" fill="#2A2725" opacity="0.9"/></g></svg>
