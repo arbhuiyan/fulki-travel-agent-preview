@@ -1,1 +1,0 @@
-import{it as e}from"./access-hen0IHOG.js";var t=e(`clock`,[[`circle`,{cx:`12`,cy:`12`,r:`10`,key:`1mglay`}],[`polyline`,{points:`12 6 12 12 16 14`,key:`68esgv`}]]);export{t};

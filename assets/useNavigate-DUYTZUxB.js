@@ -1,0 +1,1 @@
+import{lt as e,ot as t}from"./access-Bf5Sxjuo.js";import{r as n}from"./link-DtbS5-RI.js";var r=e(t(),1);function i(e){let t=n();return r.useCallback(n=>t.navigate({...n,from:n.from??e?.from}),[e?.from,t])}export{i as t};
