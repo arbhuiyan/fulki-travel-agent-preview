@@ -1,0 +1,1 @@
+import{lt as e,ot as t}from"./access-1cp5N-PF.js";var n=e(t(),1);function r(e){let t=n.useRef({value:e,previous:e});return n.useMemo(()=>(t.current.value!==e&&(t.current.previous=t.current.value,t.current.value=e),t.current.previous),[e])}export{r as t};
