@@ -1,1 +1,0 @@
-import{it as e}from"./access-1cp5N-PF.js";var t=e(`circle`,[[`circle`,{cx:`12`,cy:`12`,r:`10`,key:`1mglay`}]]);export{t};
