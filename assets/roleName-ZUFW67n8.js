@@ -1,1 +1,0 @@
-import{T as e,j as t}from"./access-CUPe-DOb.js";var n=(t,n)=>t.builtIn&&e[t.id]?n(e[t.id]):t.name;function r(e,r,i){if(e.owner)return i(`users.owner`);let a=t(e.permissions,r);return a?n(a,i):i(`roles.custom`)}export{r as n,n as t};
