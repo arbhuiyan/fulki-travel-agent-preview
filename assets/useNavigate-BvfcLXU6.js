@@ -1,0 +1,1 @@
+import{lt as e,ot as t}from"./access-Cg6D3Kzm.js";import{r as n}from"./link-DQWBZUa2.js";var r=e(t(),1);function i(e){let t=n();return r.useCallback(n=>t.navigate({...n,from:n.from??e?.from}),[e?.from,t])}export{i as t};
