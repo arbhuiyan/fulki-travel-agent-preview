@@ -1,0 +1,1 @@
+import{lt as e,ot as t}from"./access-BnSPLNfq.js";var n=e(t(),1);function r(e=6e4){let[t,r]=(0,n.useState)(()=>Date.now());return(0,n.useEffect)(()=>{let t=window.setInterval(()=>r(Date.now()),e);return()=>window.clearInterval(t)},[e]),t}export{r as t};
