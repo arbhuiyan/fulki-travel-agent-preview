@@ -1,0 +1,1 @@
+import{lt as e,ot as t}from"./access-HwDiJSoa.js";var n=e(t(),1),r=(0,n.createContext)(null);function i(){let e=(0,n.useContext)(r);if(!e)throw Error(`useShell must be used inside <AppShell>`);return e}export{i as n,r as t};
