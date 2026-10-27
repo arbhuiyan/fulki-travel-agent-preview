@@ -1,0 +1,1 @@
+import{Q as e,at as t}from"./access-BwC9QKAh.js";var n=t();function r({className:t,...r}){return(0,n.jsx)(`div`,{className:e(`animate-pulse rounded-md bg-primary/10`,t),...r})}export{r as t};
