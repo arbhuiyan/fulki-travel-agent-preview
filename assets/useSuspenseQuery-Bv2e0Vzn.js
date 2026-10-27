@@ -1,1 +1,0 @@
-import{C as e,E as t,S as n}from"./agency-Cj8z2oub.js";function r(r,i){return n({...r,enabled:!0,suspense:!0,throwOnError:e,placeholderData:void 0},t,i)}export{r as t};
